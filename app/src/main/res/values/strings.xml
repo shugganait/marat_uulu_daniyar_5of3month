@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">marat_uulu_daniyar_5of3month</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="counter">Counter</string>
+    <string name="_0">0</string>
+    <string name="increase">Increase</string>
+    <string name="_1">+1</string>
+    <string name="the_end">The end</string>
+</resources>
